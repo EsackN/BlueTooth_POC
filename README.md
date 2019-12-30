@@ -10,5 +10,5 @@ This is a basic POC for searching, pairing, connecting the nearby Bluetooth devi
 - Connecting/Disconnecting devices.
 
 
-![Alt text]("enter image url of repositoryhere") 
+![Bluetooth_POC]("https://github.com/EsackN/BlueTooth_POC/blob/master/BT_Screen.png") 
 
