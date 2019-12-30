@@ -9,6 +9,7 @@ This is a basic POC for searching, pairing, connecting the nearby Bluetooth devi
 - Pairing/Unpairing.
 - Connecting/Disconnecting devices.
 
-
-![Bluetooth_POC]("https://github.com/EsackN/BlueTooth_POC/blob/master/BT_Screen.png") 
+<div align="center">
+    <img src="BT_Screen.png" width="400px"</img> 
+</div>
 
