@@ -8,3 +8,7 @@ This is a basic POC for searching, pairing, connecting the nearby Bluetooth devi
 - Listing Paired and Available devices.
 - Pairing/Unpairing.
 - Connecting/Disconnecting devices.
+
+
+![Alt text]("enter image url of repositoryhere") 
+
